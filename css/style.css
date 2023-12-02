@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 *{
+    background-color: rgb(10, 221, 236);
     margin: 0;
     padding: 0;
 }
 .container{
+    margin: 20px;
     max-width: 80vw;
     font-family: 'Ubuntu', sans-serif;
 }
