@@ -1,3 +1,6 @@
+.p{
+    font-weight: bold;
+}
 .min-h-screen{
     min-height: 100vh;
 }
